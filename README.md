@@ -654,7 +654,7 @@ This project is licensed under the **MIT License**.
 
 - 🌐 GitHub: [@Gouravkim](https://github.com/Gouravkim)
 - 🔗 Project Link: [Email Spam Classifier](https://github.com/Gouravkim/Email-Spam-Classifier-Filtering-Spam-vs.-Ham-using-Naive-Bayes)
-- 🔗 Web Project Link: [Web Email Spam Classifier](https://email-ham.gourav74318.workers.dev/)
+
 
 
 ---
