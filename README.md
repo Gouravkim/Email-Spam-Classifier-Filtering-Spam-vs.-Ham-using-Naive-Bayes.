@@ -656,7 +656,6 @@ This project is licensed under the **MIT License**.
 - 🔗 Project Link: [Email Spam Classifier](https://github.com/Gouravkim/Email-Spam-Classifier-Filtering-Spam-vs.-Ham-using-Naive-Bayes)
 
 
-
 ---
 
 <p align="center">
